@@ -1,0 +1,108 @@
+{
+  "main": {
+    "avatar_alt": "Федянов Степан – Фронтенд-разработчик",
+    "title": "Федянов Степан Фронтенд-разработчик",
+    "about_title": "Обо мне",
+    "about_text": "Занимаюсь фронтенд-разработкой с 2019 года. Два года работал на фрилансе, участвовал в разработке крупных проектах, а также доработкой и рефакторингом существующих решений у клиентов. В свободное от работы время занимаюсь спортом, читаю.",
+    "contacts_title": "Контакты",
+    "skills_title": "Навыки",
+    "skills": {
+      "0": "HTML и CSS",
+      "1": "JavaScript",
+      "2": "Vue JS",
+      "3": "Nuxt",
+      "4": "Vite",
+      "5": "Webpack",
+      "6": "Docker",
+      "7": "Git",
+      "8": "PHP, Python, C",
+      "9": "SQL"
+    },
+    "education_title": "Образование",
+    "education": {
+      "0": "CS50's Introduction to Computer Science",
+      "1": "CS50's Web Programming with Python and JavaScript",
+      "2": "Google UX Design Professional Certificate"
+    },
+    "also_title": "Также знаю",
+    "also": {
+      "0": "Алгоритмы",
+      "1": "Типы данных",
+      "2": "Работа с базами данных",
+      "3": "Проектирование информационных систем",
+      "4": "Тестирование, CI/CD",
+      "5": "SEO-оптимизация"
+    }
+  },
+  "contacts": {
+    "email": "stepan{'@'}fedyanov.ru",
+    "phone": "+7 (995) 431 48 11",
+    "tg_link": "https://t.me/fedyanov_st",
+    "tg_text": "t.me/fedyanov_st",
+    "linkedin_link": "https://www.linkedin.com/in/fedyanov/",
+    "linkedin_text": "linkedin.com/in/fedyanov",
+    "github_link": "https://github.com/stepanfedyanov",
+    "github_text": "github.com/stepanfedyanov"
+  },
+  "experience": {
+    "title": "Опыт работы",
+    "work_list": {
+      "freelance": {
+        "title": "Фриланс",
+        "position": "Веб-разработчик",
+        "time": "с января 2022 по май 2023 (1 год и 5 месяц)",
+        "tasks": {
+          "0": "Разрабатывал сайты «под ключ» с использованием CMS Битрикс, Wordpress, Django, Strapi",
+          "1": "Занимался доработкой и рефакторингом существующих сайтов на HTML/CSS, JavaScript, ReactJS, VueJS и другое",
+          "2": "Предоставлял техническую поддержку сайтов на протяжении нескольких месяц и более",
+          "3": "Занимался разработкой UI и исследованиями UX",
+          "4": "Разрабатывал телеграм-ботов с использованием библиотеки Python aiogram",
+          "5": "Профиль на фриланс-бирже: <a class='link_underlined' href='https://kwork.ru/user/by_fedyanov' target='_blank'>kwork.ru/user/by_fedyanov</a>"
+        },
+        "projects_title": "Крупные проекты в это время",
+        "vinilavanila": {
+          "title": "Плеер VinilaVanila Radio",
+          "link_text": "vinilavanila.com",
+          "link_url": "https://vinilavanila.com/",
+          "subtitle": "Онлайн-радио “Vinila Vanila”"
+        },
+        "samprachka": {
+          "title": "СамПРАЧКА",
+          "link_text": "samprachka.ru",
+          "link_url": "https://samprachka.ru/",
+          "subtitle": "Сеть прачечных самообслуживания «СамПРАЧКА»"
+        },
+        "24mkk": {
+          "title": "«Родная мебель»",
+          "link_text": "24mkk.ru",
+          "link_url": "https://24mkk.ru/",
+          "subtitle": "Мебельная фабрика «Родная мебель»"
+        }
+      },
+      "lebedev": {
+        "title": "Студия Артемия Лебедева",
+        "position": "Фронтенд-разработчик",
+        "time": "стажировка с июня 2023 по настоящее время",
+        "tasks": {
+          "0": "Занимался разработкой пользовательского интерфейса Николая Иронова на VueJS – <a class='link_underlined' href='https://ironov.artlebedev.com/ru/' target='_blank'>ironov.ai</a>",
+          "1": "Работал с анимацией на JavaScript",
+          "2": "Создавал графику с использование SVG и PaperJS",
+          "3": "Занимался рефакторингом и оптимизацией пользовательского интерфейса",
+          "4": "Помогал в проектировании используемых данных"
+        }
+      }
+    }
+  },
+  "footer": {
+    "title": "Если вы тут, значит мне будет приятно иметь с вами дело!",
+    "contacts_title": "Свяжитесь с помощью контактов",
+    "form_title": "Или оставьте свое сообщение в форме"
+  },
+  "form": {
+    "name": "Ваше имя*",
+    "email": "Ваша электронная почта*",
+    "message": "Сообщение",
+    "send": "Отправить",
+    "additional": "В поле «Сообщение» вы можете оставить дополнительные контактные данные"
+  }
+}
