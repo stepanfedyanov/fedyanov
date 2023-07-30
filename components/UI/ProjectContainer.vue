@@ -26,7 +26,10 @@ const props = defineProps({
 .project
   margin-bottom: 40px
   @media (max-width: 900px)
+    margin-bottom: 20px
     width: 220px
+  @media (max-width: 800px)
+    width: 100%
   &__title
     margin-bottom: 10px
   &__link

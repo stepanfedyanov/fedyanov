@@ -3,7 +3,7 @@
     <!-- <h2 class="title-2 the-contacts__title">{{ $t('footer.title') }}</h2> -->
     <div class="the-contacts__wrapper">
       <div class="the-contacts__column">
-        <h3 class="title-3 the-contacts__column-title">{{ $t('footer.contacts_title') }}</h3>
+        <h3 class="title-3 the-contacts__column-title" v-html="$t('footer.contacts_title')" />
         <Contacts />
       </div>
       <!-- <div class="the-contacts__column">

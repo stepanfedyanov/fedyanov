@@ -36,6 +36,7 @@
   align-items: center
   gap: 10px
   &__link
+    text-decoration: underline
     &_active
-      text-decoration: underline
+      text-decoration: none
 </style>

@@ -15,7 +15,7 @@
       <div class="main__column">
         <UITextContainer>
           <h2 class="title-2 main__second-title">{{ $t('main.about_title') }}</h2>
-          <p class="text main__text">{{ $t('main.about_text') }}</p>
+          <p class="text main__text" v-html="$t('main.about_text')" />
         </UITextContainer>
         <div class="main__wrapper">
           <div class="main__column">
@@ -26,9 +26,8 @@
                   class="text list-item main__list-item"
                   v-for="(skill, idx) in $tm('main.skills')"
                   :key="idx"
-                >
-                  {{ $rt(skill) }}
-                </li>
+                  v-html="$rt(skill)"
+                />
               </ul>
             </UITextContainer>
           </div>
@@ -40,9 +39,8 @@
                   class="text list-item main__list-item"
                   v-for="(educationItem, idx) in $tm('main.education')"
                   :key="idx"
-                >
-                  {{ $rt(educationItem) }}
-                </li>
+                  v-html="$rt(educationItem)"
+                />
               </ul>
             </UITextContainer>
             <UITextContainer>
@@ -52,9 +50,8 @@
                   class="text list-item main__list-item"
                   v-for="(alsoItem, idx) in $tm('main.also')"
                   :key="idx"
-                >
-                  {{ $rt(alsoItem) }}
-                </li>
+                  v-html="$rt(alsoItem)"
+                />
               </ul>
             </UITextContainer>
           </div>

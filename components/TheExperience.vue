@@ -4,6 +4,24 @@
 
     <div class="work__container">
       <UIWorkExperience>
+        <template v-slot:title>
+          {{ $t('experience.work_list.lebedev.title') }}
+        </template>
+        <template v-slot:position>
+          {{ $t('experience.work_list.lebedev.position') }}
+        </template>
+        <template v-slot:time>
+          {{ $t('experience.work_list.lebedev.time') }}
+        </template>
+        <ul>
+          <li
+            v-for="(task, idx) in $tm('experience.work_list.lebedev.tasks')"
+            :key="idx"
+            v-html="$rt(task)"
+          />
+        </ul>
+      </UIWorkExperience>
+      <UIWorkExperience>
         <template v-slot:title>{{ $t('experience.work_list.freelance.title') }}</template>
         <template v-slot:position>{{ $t('experience.work_list.freelance.position') }}</template>
         <template v-slot:time>{{ $t('experience.work_list.freelance.time') }}</template>
@@ -50,24 +68,6 @@
             </template>
           </UIProjectContainer>
         </template>
-      </UIWorkExperience>
-      <UIWorkExperience>
-        <template v-slot:title>
-          {{ $t('experience.work_list.lebedev.title') }}
-        </template>
-        <template v-slot:position>
-          {{ $t('experience.work_list.lebedev.position') }}
-        </template>
-        <template v-slot:time>
-          {{ $t('experience.work_list.lebedev.time') }}
-        </template>
-        <ul>
-          <li
-            v-for="(task, idx) in $tm('experience.work_list.lebedev.tasks')"
-            :key="idx"
-            v-html="$rt(task)"
-          />
-        </ul>
       </UIWorkExperience>
     </div>
   </section>

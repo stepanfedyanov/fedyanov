@@ -47,8 +47,11 @@
         &-wrapper
             @media (max-width: 900px)
                 display: flex
-                gap: 30px
                 flex-wrap: wrap
+        h5
+          @media (max-width: 800px)
+            font-size: 20px
+            font-weight: 700
     &__header
         display: flex
         gap: 20px
