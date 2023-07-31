@@ -3,7 +3,7 @@
     "avatar_alt": "Stepan Fedyanov - Frontend Developer",
     "title": "Stepan Fedyanov Frontend Developer",
     "about_title": "About Me",
-    "about_text": "I&nbsp;am a&nbsp;front-end developer, specializing in&nbsp;the development of&nbsp;web applications and interfaces using Vue JS. I&nbsp;also have experience with React and Angular frameworks. I&nbsp;have been working as&nbsp;a&nbsp;freelancer for over 2&nbsp;years, mainly fixing bugs and building websites from scratch. I&nbsp;am currently doing an&nbsp;internship at&nbsp;the Art. Lebedev Studio&nbsp;as&nbsp;a&nbsp;front-end developer for Nikolay Ironov AI. In&nbsp;my&nbsp;free time, I&nbsp;enjoy sports and reading. My&nbsp;biggest weakness is&nbsp;that&nbsp;I work nonstop.",
+    "about_text": "Front-end developer, specializing in&nbsp;the development of&nbsp;web applications and interfaces using Vue JS. I&nbsp;also have experience with React and Angular frameworks. I&nbsp;have developed more than 20&nbsp;projects, 15&nbsp;of&nbsp;which have received the highest rating from the customer. I&nbsp;have received a&nbsp;special &laquo;Rising Star&raquo; status for the speed and quality of&nbsp;my&nbsp;work. I&nbsp;am currently an&nbsp;intern at&nbsp;the Art. Lebedev Studio in&nbsp;the Nikolay Ironov project. In&nbsp;my&nbsp;free time, I&nbsp;enjoy sports and reading. My&nbsp;biggest weakness is&nbsp;that&nbsp;I work non-stop.",
     "contacts_title": "Contacts",
     "skills_title": "Skills",
     "skills": {
@@ -53,13 +53,13 @@
         "time": "January 2022 to May 2023 (1 year and 5 months)",
         "tasks": {
           "0": "Developed websites from scratch using CMS such as&nbsp;Bitrix, Wordpress, Django, Strapi",
-          "1": "Worked on&nbsp;enhancements and refactoring of&nbsp;existing websites using HTML/CSS, JavaScript, ReactJS, VueJS, and more",
-          "2": "Provided technical support for websites over several months and beyond",
+          "1": "Worked on&nbsp;enhancements and refactoring of&nbsp;existing websites using HTML/CSS, JavaScript, ReactJS, VueJS",
           "3": "Worked on UI development and UX research",
+          "2": "Provided technical support for websites over several months: working with content, update UI and update software",
           "4": "Developed Telegram bots using Python aiogram",
           "5": "Profile on freelance platform: <a class='link_underlined' href='https://kwork.ru/user/by_fedyanov' target='_blank'>kwork.ru/user/by_fedyanov</a>"
         },
-        "projects_title": "Major Projects During This Time",
+        "projects_title": "Interesting Projects During This Time",
         "vinilavanila": {
           "title": "VinilaVanila Radio Player",
           "link_text": "vinilavanila.com",
