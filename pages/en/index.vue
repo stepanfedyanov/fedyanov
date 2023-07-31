@@ -16,9 +16,9 @@ export default {
       title: 'Fedyanov Stepan – Frontend Developer | CV',
       ogTitle: 'Fedyanov Stepan – Frontend Developer | CV',
       description:
-        'I have been working in frontend development since 2019. For two years, I worked as a freelancer, participated in the development of large projects, as well as the enhancement and refactoring of existing solutions for clients. In my free time, I enjoy sports and reading.',
+        'Frontend developer at VueJS. I am currently an intern at the Art. Lebedev Studio. I have been working as a freelancer for two years, participating in the development of large projects, as well as updating and refactoring existing solutions for clients. In my free time, I enjoy sports and reading.',
       ogDescription:
-        'I have been working in frontend development since 2019. For two years, I worked as a freelancer, participated in the development of large projects, as well as the enhancement and refactoring of existing solutions for clients. In my free time, I enjoy sports and reading.',
+        'Frontend developer at VueJS. I am currently an intern at the Art. Lebedev Studio. I have been working as a freelancer for two years, participating in the development of large projects, as well as updating and refactoring existing solutions for clients. In my free time, I enjoy sports and reading.',
       ogImage: '/ogImageEn.png',
       twitterCard: 'summary_large_image',
     });
