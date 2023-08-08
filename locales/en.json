@@ -3,7 +3,7 @@
     "avatar_alt": "Stepan Fedyanov - Frontend Developer",
     "title": "Stepan Fedyanov Frontend Developer",
     "about_title": "About Me",
-    "about_text": "Front-end developer, specializing in&nbsp;the development of&nbsp;web applications and interfaces using Vue JS. I&nbsp;also have experience with React and Angular frameworks. I&nbsp;have developed more than 20&nbsp;projects, 15&nbsp;of&nbsp;which have received the highest rating from the customer. I&nbsp;have received a&nbsp;special &laquo;Rising Star&raquo; status for the speed and quality of&nbsp;my&nbsp;work. I&nbsp;am currently an&nbsp;intern at&nbsp;the Art. Lebedev Studio in&nbsp;the Nikolay Ironov project. In&nbsp;my&nbsp;free time, I&nbsp;enjoy sports and reading. My&nbsp;biggest weakness is&nbsp;that&nbsp;I work non-stop.",
+    "about_text": "Front-end developer, specializing in&nbsp;the development of&nbsp;web applications and interfaces using Vue JS. I&nbsp;also have experience with React and Angular frameworks. I&nbsp;have developed more than 20&nbsp;projects, 15&nbsp;of&nbsp;which have received the highest rating from the customer. I&nbsp;have received a&nbsp;special \"Rising Star\" status for the speed and quality of&nbsp;my&nbsp;work. I&nbsp;am currently an&nbsp;intern at&nbsp;the Art. Lebedev Studio in&nbsp;the Nikolay Ironov project. In&nbsp;my&nbsp;free time, I&nbsp;enjoy sports and reading. My&nbsp;biggest weakness is&nbsp;that&nbsp;I work non-stop.",
     "contacts_title": "Contacts",
     "skills_title": "Skills",
     "skills": {
@@ -84,11 +84,11 @@
         "position": "Frontend Developer",
         "time": "Internship from June 2023 to the present",
         "tasks": {
-          "0": "Worked on&nbsp;the development of&nbsp;user interface for Nikolay Ironov on&nbsp;VueJS - <a class='link_underlined' href='https://ironov.artlebedev.com/ru/' target='_blank'>ironov.ai</a>",
-          "1": "Worked with animations using JavaScript",
-          "2": "Created graphics using SVG and PaperJS",
-          "3": "Worked on&nbsp;refactoring and optimizing the user interface",
-          "4": "Assisted in&nbsp;designing the data used in&nbsp;projects"
+          "0": "Work on&nbsp;the development of&nbsp;user interface for Nikolay Ironov on&nbsp;VueJS - <a class='link_underlined' href='https://ironov.artlebedev.com/ru/' target='_blank'>ironov.ai</a>",
+          "1": "Work with animations using JavaScript",
+          "2": "Create graphics using SVG and PaperJS",
+          "3": "Work on&nbsp;refactoring and optimizing the user interface",
+          "4": "Assist in&nbsp;designing the data used in&nbsp;projects"
         }
       }
     }
