@@ -27,7 +27,7 @@ export default defineNuxtConfig({
       ],
     },
   },
-  modules: ['@intlify/nuxt3', '@nuxtjs/yandex-metrika'],
+  modules: ['@intlify/nuxt3', '@artmizu/yandex-metrika-nuxt'],
   intlify: {
     localeDir: 'locales',
     vueI18n: {
@@ -36,10 +36,6 @@ export default defineNuxtConfig({
   },
   yandexMetrika: {
     id: '94567972',
-    clickmap: true,
-    trackLinks: true,
-    accurateTrackBounce: true,
-    webvisor: true
   },
   css: ['normalize.css', '~/assets/style/main.sass'],
 });
